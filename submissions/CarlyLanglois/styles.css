@@ -1,0 +1,28 @@
+
+body {
+    width: 100%;
+    max-width: 1024px;
+    font: 75% georgia, sans-serif;
+	line-height: 1.88889;
+	color: #555753;
+	background-color: #ffffea;
+    margin-top: : 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+	}
+main {
+    background-color: #c8f681;
+    margin-top: : 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    margin-left: 100px;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
